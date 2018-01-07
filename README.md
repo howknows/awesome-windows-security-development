@@ -184,6 +184,9 @@
 
 ## HIPS
 - https://github.com/0xdabbad00/OpenHIPS
+- https://github.com/ExpLife/Norton_AntiVirus_SourceCode
+- https://github.com/majian55555/MJAntiVirusEngine
+- https://github.com/develbranch/TinyAntivirus
 
 ## VT
 
