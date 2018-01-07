@@ -328,6 +328,7 @@
 
 ## Miscellaneous
 
+- https://github.com/ExpLife/ByPassCfg
 - https://github.com/hfiref0x/SXSEXP
 - https://github.com/hfiref0x/VBoxHardenedLoader
 - https://github.com/hfiref0x/SyscallTables
