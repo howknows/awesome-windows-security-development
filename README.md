@@ -1,5 +1,4 @@
 # awesome-windows-kernel-security-development
-rootkit bootkit hips 
 
 ## DKOM
 - https://github.com/nbqofficial/HideDriver
