@@ -1,11 +1,13 @@
 # awesome-windows-kernel-security-development
 
 ## DKOM
+
 - https://github.com/nbqofficial/HideDriver
 - https://github.com/landhb/HideProcess
 - https://github.com/tfairane/DKOM
 
 ## SSDT HOOK
+
 - https://github.com/papadp/shd
 - https://github.com/bronzeMe/SSDT_Hook_x64
 - https://github.com/s18leoare/Hackshield-Driver-Bypass
@@ -15,14 +17,17 @@
 - https://github.com/weixu8/RegistryMonitor
     
 ## EAT/IAT/OBJECT/IRP/IDT HOOK
+
 - https://github.com/HollyDi/Ring0Hook
 - https://github.com/mgeeky/prc_xchk
 
 ## INLINE HOOK
+
 - https://github.com/MalwareTech/FstHook
 - https://github.com/Menooker/FishHook
 
 ## Inject Technique
+
 - https://github.com/NtOpcode/NT-APC-Injector
 - https://github.com/caidongyun/WinCodeInjection
 - https://github.com/countercept/doublepulsar-usermode-injector
@@ -44,6 +49,7 @@
 - https://github.com/rootm0s/Injectors
 
 ## HOOK Engine
+
 - https://github.com/Ilyatk/HookEngine
 - https://github.com/zyantific/zyan-hook-engine
 - https://github.com/martona/mhook
@@ -51,7 +57,16 @@
 - https://github.com/RelicOfTesla/Detours
 
 ## CallBack
+
 - https://github.com/JKornev/hidden
+- https://github.com/binbibi/CallbackEx
+
+## Minifilter
+- https://github.com/idkwim/mfd
+- https://github.com/Coxious/Antinvader
+- https://github.com/tandasat/Scavenger
+- https://github.com/fishfly/X70FSD
+- https://github.com/aleksk/LazyCopy
 
 ## TDI
 
@@ -66,6 +81,19 @@
 - https://github.com/raymon-tian/WFPFirewall
 - https://github.com/killbug2004/HashFilter
 - https://github.com/henrypp/simplewall
+
+## NDIS
+
+- https://github.com/michael4338/NDIS
+- https://github.com/IAmAnubhavSaini/ndislwf
+- https://github.com/OpenVPN/tap-windows6
+- https://github.com/SageAxcess/pcap-ndis6
+- https://github.com/uniking/NDIS-Demo
+- https://github.com/mkdym/NDISDriverInst
+- https://github.com/debugfan/packetprot
+- https://github.com/Iamgublin/NDIS6.30-NetMonitor
+- https://github.com/nmap/npcap
+- https://github.com/Ltangjian/FireWall
 
 ## WSK
 
@@ -147,11 +175,8 @@
 ## Bypass PatchPuard
 
 - https://github.com/hfiref0x/UPGDSED
-
 - https://github.com/tandasat/PgResarch
-
 - https://github.com/killvxk/DisableWin10PatchguardPoc
-
 - https://github.com/tandasat/findpg
 
 ## Bypass DSE
@@ -181,6 +206,28 @@
 - https://github.com/zerosum0x0/puppetstrings
 - https://github.com/zerosum0x0/ShellcodeDriver
 - https://github.com/Rootkitsmm/WinIo-Vidix
+
+## SandboxEscape
+
+- https://github.com/SilverMoonSecurity/SandboxEvasion
+- https://github.com/exAphex/SandboxEscape
+- https://github.com/Fel0ny/Sandbox-Detection
+- https://github.com/CheckPointSW/InviZzzible
+- https://github.com/MalwareTech/AppContainerSandbox
+- https://github.com/tyranid/IE11SandboxEscapes
+- https://github.com/649/Chrome-Sandbox-Exploit
+- https://github.com/google/sandbox-attacksurface-analysis-tools
+- https://github.com/conix-security/zer0m0n
+- https://github.com/iceb0y/windows-container
+- https://github.com/s7ephen/SandKit
+- https://github.com/D4Vinci/Dr0p1t-Framework
+- https://github.com/cryptolok/MorphAES
+- https://github.com/mtalbi/vm_escape
+- https://github.com/unamer/vmware_escape
+- https://github.com/erezto/lua-sandbox-escape
+- https://github.com/brownbelt/Edge-sandbox-escape
+- https://github.com/shakenetwork/vmware_escape
+-https://github.com/Cr4sh/prl_guest_to_host
 
 ## HIPS
 - https://github.com/0xdabbad00/OpenHIPS
