@@ -11,6 +11,7 @@
 - https://github.com/AndrewGaspar/km-stl
 - https://github.com/zer0mem/KernelProject
 - https://github.com/zer0mem/miniCommon
+- https://github.com/jackqk/mystudy
 
 ## DKOM
 
