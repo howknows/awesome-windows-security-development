@@ -197,6 +197,7 @@
 ## Malware analysis
 
 - https://github.com/bloomer1016
+- https://github.com/CHEF-KOCH/malware-research
 
 ## ArkTools
 
