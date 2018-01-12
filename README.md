@@ -332,6 +332,7 @@
 - https://github.com/Rootkitsmm/Win32k-Fuzzer
 - https://github.com/mwrlabs/KernelFuzzer
 - https://github.com/SignalSEC/kirlangic-ttf-fuzzer
+- https://github.com/demi6od/Smashing_The_Browser
 
 ## Miscellaneous
 
