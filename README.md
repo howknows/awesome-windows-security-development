@@ -86,6 +86,7 @@
 - https://github.com/JKornev/hidden
 - https://github.com/binbibi/CallbackEx
 - https://github.com/swwwolf/cbtest
+- https://github.com/nmgwddj/Learn-Windows-Drivers
 
 ## Minifilter
 - https://github.com/idkwim/mfd
