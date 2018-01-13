@@ -217,6 +217,7 @@
 - https://github.com/kedebug/ScDetective
 - https://github.com/PKRoma/ProcessHacker
 - https://github.com/AndreyBazhan/DbgExt
+- https://github.com/comaeio/SwishDbgExt
 
 ## Bypass PatchPuard
 
