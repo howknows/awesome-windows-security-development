@@ -40,6 +40,7 @@
 
 - https://github.com/MalwareTech/FstHook
 - https://github.com/Menooker/FishHook
+- https://github.com/G-E-N-E-S-I-S/latebros
 
 ## Inject Technique
 
@@ -345,6 +346,11 @@
 - https://github.com/demi6od/Smashing_The_Browser
 - https://github.com/marche147/IoctlMon
 
+## GameHack
+
+- https://github.com/mlghuskie/NoBastian
+- https://github.com/G-E-N-E-S-I-S/BattlegroundsChams
+
 ## Miscellaneous
 
 - https://github.com/ExpLife/ByPassCfg
@@ -382,6 +388,8 @@
 - https://github.com/google/symboliclink-testing-tools
 - https://github.com/ptresearch/IntelME-JTAG
 - https://github.com/smourier/TraceSpy
+- https://github.com/G-E-N-E-S-I-S/tasklist-brutus
+- https://github.com/G-E-N-E-S-I-S/token_manipulation
 
 ## Blog
 
