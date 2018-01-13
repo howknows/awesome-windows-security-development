@@ -337,6 +337,7 @@
 - https://github.com/mwrlabs/KernelFuzzer
 - https://github.com/SignalSEC/kirlangic-ttf-fuzzer
 - https://github.com/demi6od/Smashing_The_Browser
+- https://github.com/marche147/IoctlMon
 
 ## Miscellaneous
 
