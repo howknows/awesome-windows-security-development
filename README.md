@@ -216,6 +216,7 @@
 - https://github.com/apriorit/antirootkit-anti-splicer
 - https://github.com/kedebug/ScDetective
 - https://github.com/PKRoma/ProcessHacker
+- https://github.com/AndreyBazhan/DbgExt
 
 ## Bypass PatchPuard
 
