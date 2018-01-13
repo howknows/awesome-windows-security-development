@@ -375,3 +375,19 @@
 - https://github.com/ptresearch/IntelME-JTAG
 - https://github.com/smourier/TraceSpy
 
+## Blog
+
+- http://www.andreybazhan.com/
+- https://blogs.technet.microsoft.com/markrussinovich/
+- http://undocumented.ntinternals.net/
+- http://j00ru.vexillium.org/
+- https://sysprogs.com/
+- http://www.rohitab.com/
+- https://sww-it.ru/
+- http://blogs.microsoft.co.il/pavely/
+- https://www.corelan.be/
+- http://tombkeeper.blog.techweb.com.cn/
+- http://www.zer0mem.sk/
+- http://blog.rewolf.pl/blog/
+- http://www.alex-ionescu.com/
+- http://blog.cr4.sh/
