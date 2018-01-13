@@ -100,6 +100,7 @@
 ## AFD
  
 - https://github.com/xiaomagexiao/GameDll 
+- https://github.com/DeDf/afd
 
 ## TDI
 
