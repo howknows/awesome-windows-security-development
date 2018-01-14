@@ -73,6 +73,8 @@
 ## Memoryload Driver
 
 - https://github.com/Professor-plum/Reflective-Driver-Loader
+- https://github.com/OlSut/Kinject-x64
+- https://github.com/stormshield/Beholder-Win32
 
 ## HOOK Engine
 
