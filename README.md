@@ -397,6 +397,9 @@
 - https://github.com/G-E-N-E-S-I-S/tasklist-brutus
 - https://github.com/G-E-N-E-S-I-S/token_manipulation
 - https://github.com/jjzhang166/sdk
+- https://github.com/killswitch-GUI/HotLoad-Driver
+- https://github.com/killswitch-GUI/minidump-lib
+- https://github.com/killswitch-GUI/win32-named-pipes-example
 
 ## Blog
 
