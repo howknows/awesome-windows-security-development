@@ -94,6 +94,8 @@
 
 ## Minifilter
 
+- https://github.com/aleksk/LazyCopy
+- https://github.com/guidoreina/minivers
 - https://github.com/idkwim/mfd
 - https://github.com/Coxious/Antinvader
 - https://github.com/tandasat/Scavenger
@@ -394,6 +396,7 @@
 - https://github.com/smourier/TraceSpy
 - https://github.com/G-E-N-E-S-I-S/tasklist-brutus
 - https://github.com/G-E-N-E-S-I-S/token_manipulation
+- https://github.com/jjzhang166/sdk
 
 ## Blog
 
