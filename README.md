@@ -225,6 +225,7 @@
 - https://github.com/PKRoma/ProcessHacker
 - https://github.com/AndreyBazhan/DbgExt
 - https://github.com/comaeio/SwishDbgExt
+- https://github.com/ExpLife/atomic-red-team
 
 ## Bypass PatchPuard
 
