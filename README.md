@@ -408,3 +408,4 @@
 - http://blog.rewolf.pl/blog/
 - http://www.alex-ionescu.com/
 - http://blog.cr4.sh/
+- https://rootkits.xyz/
