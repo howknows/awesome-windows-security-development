@@ -364,6 +364,7 @@
 ## bin diff
 
 - https://www.zynamics.com/bindiff.html
+- https://github.com/joxeankoret/diaphora
 
 ## Miscellaneous
 
