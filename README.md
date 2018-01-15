@@ -361,6 +361,10 @@
 
 - https://github.com/illera88/Ponce
 
+## bin diff
+
+- https://www.zynamics.com/bindiff.html
+
 ## Miscellaneous
 
 - https://github.com/ExpLife/ByPassCfg
