@@ -370,6 +370,10 @@
 - https://www.zynamics.com/bindiff.html
 - https://github.com/joxeankoret/diaphora
 
+## windbg plugin
+
+- https://github.com/VincentSe/WatchTrees
+
 ## Miscellaneous
 
 - https://github.com/ExpLife/ByPassCfg
