@@ -138,6 +138,7 @@
 - https://github.com/nmap/npcap
 - https://github.com/Ltangjian/FireWall
 - https://github.com/Microsoft/Windows-driver-samples/tree/master/network/config/bindview
+- https://github.com/brorica/http_inject (winpcap)
 
 ## WSK
 
