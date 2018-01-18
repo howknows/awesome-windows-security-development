@@ -442,3 +442,4 @@
 - http://www.alex-ionescu.com/
 - http://blog.cr4.sh/
 - https://rootkits.xyz/
+- https://ixyzero.com/blog/archives/3543.html
