@@ -369,6 +369,9 @@
 
 - https://www.zynamics.com/bindiff.html
 - https://github.com/joxeankoret/diaphora
+- https://github.com/ExpLife/binarydiffer
+- https://github.com/ExpLife/patchdiff2_ida6
+- https://github.com/ExpLife/patchdiff2
 
 ## windbg plugin
 
