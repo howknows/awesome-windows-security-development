@@ -449,3 +449,4 @@
 - https://ixyzero.com/blog/archives/3543.html
 - https://whereisk0shl.top/
 - http://www.triplefault.io/2017/09/enumerating-process-thread-and-image.html
+- http://doar-e.github.io/blog/2017/12/01/debugger-data-model/
