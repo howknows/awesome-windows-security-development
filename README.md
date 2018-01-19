@@ -239,6 +239,7 @@
 - https://github.com/comaeio/SwishDbgExt
 - https://github.com/ExpLife/atomic-red-team
 - https://github.com/shenghe/pcmanager
+- https://github.com/lj1987new/guardlite
 
 ## Bypass PatchPuard
 
