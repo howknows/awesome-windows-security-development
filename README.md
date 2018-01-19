@@ -238,6 +238,7 @@
 - https://github.com/AndreyBazhan/DbgExt
 - https://github.com/comaeio/SwishDbgExt
 - https://github.com/ExpLife/atomic-red-team
+- https://github.com/shenghe/pcmanager
 
 ## Bypass PatchPuard
 
