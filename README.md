@@ -448,3 +448,4 @@
 - https://rootkits.xyz/
 - https://ixyzero.com/blog/archives/3543.html
 - https://whereisk0shl.top/
+- http://www.triplefault.io/2017/09/enumerating-process-thread-and-image.html
