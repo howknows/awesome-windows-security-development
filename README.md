@@ -91,6 +91,7 @@
 - https://github.com/binbibi/CallbackEx
 - https://github.com/swwwolf/cbtest
 - https://github.com/nmgwddj/Learn-Windows-Drivers
+- https://github.com/SamLarenN/CallbackDisabler
 
 ## Minifilter
 
