@@ -451,6 +451,7 @@
 
 ## Blog
 
+- https://msdn.microsoft.com/en-us/library/windows/hardware/ff553217(v=vs.85).aspx
 - http://www.andreybazhan.com/
 - https://blogs.technet.microsoft.com/markrussinovich/
 - http://undocumented.ntinternals.net/
