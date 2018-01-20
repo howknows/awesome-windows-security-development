@@ -244,6 +244,7 @@
 - https://github.com/ExpLife/atomic-red-team
 - https://github.com/shenghe/pcmanager
 - https://github.com/lj1987new/guardlite
+- https://github.com/hackshields/antivirus/
 
 ## Bypass PatchPuard
 
