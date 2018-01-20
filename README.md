@@ -452,6 +452,7 @@
 
 ## Blog
 
+- https://channel9.msdn.com/Shows/Defrag-Tools
 - http://windbg.info/
 - http://windbg.org/
 - https://msdn.microsoft.com/en-us/library/windows/hardware/ff553217(v=vs.85).aspx
