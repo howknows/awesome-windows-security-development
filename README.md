@@ -399,6 +399,10 @@
 
 - https://github.com/gentilkiwi/mimikatz
 
+##  Auxiliary Lib
+
+- https://github.com/David-Reguera-Garcia-Dreg/auxlib
+
 ## Miscellaneous
 
 - https://github.com/gentilkiwi/p11proxy
