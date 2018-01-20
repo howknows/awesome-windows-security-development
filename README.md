@@ -219,8 +219,11 @@
 
 ## Malware analysis
 
+- https://github.com/gentilkiwi/spectre_meltdown
+- https://github.com/gentilkiwi/wanadecrypt
 - https://github.com/bloomer1016
 - https://github.com/CHEF-KOCH/malware-research
+- https://github.com/gentilkiwi/wanakiwi
 
 ## ArkTools
 
@@ -388,8 +391,18 @@
 
 - https://github.com/klemenb/fiddly
 
+## RPC
+
+- https://github.com/gentilkiwi/basic_rpc
+
+## HashDump
+
+- https://github.com/gentilkiwi/mimikatz
+
 ## Miscellaneous
 
+- https://github.com/gentilkiwi/p11proxy
+- https://github.com/gentilkiwi/kekeo
 - https://github.com/ExpLife/ByPassCfg
 - https://github.com/hfiref0x/SXSEXP
 - https://github.com/hfiref0x/VBoxHardenedLoader
