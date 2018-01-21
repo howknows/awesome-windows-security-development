@@ -412,6 +412,10 @@
 - https://github.com/illahaha/zxarps (arpcheat)
 - https://github.com/sincoder/zxarps (arpcheat)
 
+## HTTP
+
+- https://github.com/OlehKulykov/libnhr
+
 ## Miscellaneous
 
 - https://github.com/gentilkiwi/p11proxy
