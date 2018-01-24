@@ -416,6 +416,10 @@
 
 - https://github.com/OlehKulykov/libnhr
 
+## HTTPS Proxy
+
+- https://github.com/killbug2004/HttpsProxy
+
 ## Miscellaneous
 
 - https://github.com/gentilkiwi/p11proxy
