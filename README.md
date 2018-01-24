@@ -415,6 +415,7 @@
 ## HTTP
 
 - https://github.com/OlehKulykov/libnhr
+- https://github.com/erickutcher/httpdownloader
 
 ## HTTPS Proxy
 
