@@ -419,6 +419,7 @@
 ## HTTPS Proxy
 
 - https://github.com/killbug2004/HttpsProxy
+- https://github.com/erickutcher/httpproxy
 
 ## Miscellaneous
 
