@@ -404,6 +404,10 @@
 
 - https://github.com/David-Reguera-Garcia-Dreg/auxlib
 
+## Ring3 NT API
+
+- https://github.com/Chuyu-Team/NativeLib
+
 ## Winpcap
 
 - http://blog.csdn.net/Ni9htMar3/article/details/54612394
