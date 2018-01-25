@@ -472,6 +472,7 @@
 - https://github.com/killswitch-GUI/HotLoad-Driver
 - https://github.com/killswitch-GUI/minidump-lib
 - https://github.com/killswitch-GUI/win32-named-pipes-example
+- https://github.com/Kelvinhack/ScreenCapAttack
 
 ## Blog
 
