@@ -354,6 +354,7 @@
 - https://github.com/Nukem9/VirtualDbg
 - https://github.com/Nukem9/VirtualDbgHide
 - https://github.com/cheat-engine/cheat-engine
+- https://github.com/Kelvinhack/kHypervisor
 
 ## Fuzzer
 
