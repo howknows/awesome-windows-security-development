@@ -297,6 +297,11 @@
 - https://github.com/Rootkitsmm/UnThreatAVDriver-DOS
 - https://github.com/Cr4sh/ThinkPwn
 - https://github.com/hfiref0x/CVE-2015-1701
+- https://github.com/tyranid/windows-logical-eop-workshop
+- https://github.com/google/sandbox-attacksurface-analysis-tools
+- https://github.com/tyranid/ExploitRemotingService
+- https://github.com/tyranid/DeviceGuardBypasses
+- https://github.com/tyranid/ExploitDotNetDCOM
 
 ## SandboxEscape
 
@@ -479,6 +484,9 @@
 - https://github.com/killswitch-GUI/minidump-lib
 - https://github.com/killswitch-GUI/win32-named-pipes-example
 - https://github.com/Kelvinhack/ScreenCapAttack
+- https://github.com/tyranid/oleviewdotnet
+- https://github.com/tyranid/CANAPE.Core
+- https://github.com/tyranid/DotNetToJScript
 
 ## slides
 
