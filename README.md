@@ -430,6 +430,8 @@
 ## awesome
 
 - https://github.com/rmusser01/Infosec_Reference/
+- https://github.com/jshaw87/Cheatsheets
+- https://github.com/RPISEC/MBE
 
 ## Miscellaneous
 
