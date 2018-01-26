@@ -427,6 +427,10 @@
 - https://github.com/killbug2004/HttpsProxy
 - https://github.com/erickutcher/httpproxy
 
+## awesome
+
+- https://github.com/rmusser01/Infosec_Reference/
+
 ## Miscellaneous
 
 - https://github.com/gentilkiwi/p11proxy
