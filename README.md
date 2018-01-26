@@ -480,6 +480,10 @@
 - https://github.com/killswitch-GUI/win32-named-pipes-example
 - https://github.com/Kelvinhack/ScreenCapAttack
 
+## slides
+
+- https://keenlab.tencent.com/zh
+
 ## Blog
 
 - http://www.vxjump.net/
