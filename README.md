@@ -494,6 +494,7 @@
 
 ## Blog
 
+- https://lifeinhex.com
 - https://vallejo.cc/2017/11/18/installation-and-first-contact-with-the-new-windbg/
 - http://www.vxjump.net/
 - https://channel9.msdn.com/Shows/Defrag-Tools
