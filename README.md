@@ -246,6 +246,7 @@
 - https://github.com/shenghe/pcmanager
 - https://github.com/lj1987new/guardlite
 - https://github.com/hackshields/antivirus/
+- https://github.com/AntiRootkit/BDArkit
 
 ## Bypass PatchPuard
 
