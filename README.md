@@ -44,6 +44,7 @@
 
 ## Inject Technique
 
+- https://github.com/georgenicolaou/HeavenInjector
 - https://github.com/tinysec/runwithdll
 - https://github.com/NtOpcode/NT-APC-Injector
 - https://github.com/caidongyun/WinCodeInjection
