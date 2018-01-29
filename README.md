@@ -68,6 +68,7 @@
 - https://github.com/al-homedawy/InjecTOR
 - https://github.com/OlSut/Kinject-x64
 - https://github.com/stormshield/Beholder-Win32
+- https://github.com/yifiHeaven/MagicWall
 
 ## Memoryload Dll
 
