@@ -441,6 +441,10 @@
 - https://github.com/jshaw87/Cheatsheets
 - https://github.com/RPISEC/MBE
 
+## tools
+
+- http://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/
+
 ## Miscellaneous
 
 - https://github.com/gentilkiwi/p11proxy
