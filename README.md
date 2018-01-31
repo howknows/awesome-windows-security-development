@@ -2,6 +2,7 @@
 
 ## Windows Kernel Driver with C++ runtime
 
+- https://github.com/ExpLife/DriverSTL
 - https://github.com/sysprogs/BazisLib
 - https://github.com/AmrThabet/winSRDF
 - https://github.com/sidyhe/dxx
