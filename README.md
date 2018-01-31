@@ -133,6 +133,7 @@
 
 ## NDIS
 
+- https://github.com/lcxl/lcxl-net-loader
 - https://www.ntkernel.com/windows-packet-filter/
 - https://github.com/michael4338/NDIS
 - https://github.com/IAmAnubhavSaini/ndislwf
@@ -424,6 +425,10 @@
 - http://www.freebuf.com/articles/system/103526.html
 - https://github.com/illahaha/zxarps (arpcheat)
 - https://github.com/sincoder/zxarps (arpcheat)
+
+## Shadow
+
+- https://github.com/lcxl/lcxl-shadow
 
 ## HTTP
 
