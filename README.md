@@ -266,6 +266,15 @@
 
 ## Windows Kernel Exploits
 
+- https://github.com/k0keoyo/CVE-2017-0038-EXP-C-JS
+- https://github.com/cbayet/PoolSprayer
+- https://github.com/k0keoyo/HEVD-Double-Free-PoC
+- https://github.com/k0keoyo/Vir.IT-explorer-Anti-Virus-Null-Pointer-Reference-PoC
+- https://github.com/k0keoyo/Driver-Loaded-PoC
+- https://github.com/k0keoyo/try_exploit
+- https://github.com/k0keoyo/CVE-2015-2546-Exploit
+- https://github.com/k0keoyo/HEVD-Arbitrary-Overwrite-Exploit-Win10-rs3
+- https://github.com/k0keoyo/Dark_Composition_case_study_Integer_Overflow
 - https://github.com/tinysec/vulnerability
 - https://github.com/akayn/demos
 - https://github.com/abatchy17/WindowsExploits
@@ -368,6 +377,9 @@
 
 ## Fuzzer
 
+- https://github.com/bee13oy/AV_Kernel_Vulns/tree/master/Zer0Con2017
+- https://github.com/k0keoyo/kDriver-Fuzzer
+- https://github.com/koutto/ioctlbf
 - https://github.com/Cr4sh/ioctlfuzzer
 - https://github.com/Cr4sh/MsFontsFuzz
 - https://github.com/hfiref0x/NtCall64
@@ -376,6 +388,7 @@
 - https://github.com/SignalSEC/kirlangic-ttf-fuzzer
 - https://github.com/demi6od/Smashing_The_Browser
 - https://github.com/marche147/IoctlMon
+- https://github.com/k0keoyo/Some-Kernel-Fuzzing-Paper
 
 ## GameHack
 
@@ -453,6 +466,7 @@
 
 ## Miscellaneous
 
+- https://github.com/k0keoyo/ntoskrnl-symbol-pdb-and-undocument-structures
 - https://github.com/gentilkiwi/p11proxy
 - https://github.com/gentilkiwi/kekeo
 - https://github.com/ExpLife/ByPassCfg
