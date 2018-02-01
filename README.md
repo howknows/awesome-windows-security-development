@@ -42,6 +42,7 @@
 - https://github.com/MalwareTech/FstHook
 - https://github.com/Menooker/FishHook
 - https://github.com/G-E-N-E-S-I-S/latebros
+- https://bbs.pediy.com/thread-214582.htm
 
 ## Inject Technique
 
@@ -259,6 +260,7 @@
 - https://github.com/killvxk/DisableWin10PatchguardPoc
 - https://github.com/tandasat/findpg
 - https://github.com/zer0mem/HowToBoostPatchGuard
+- https://bbs.pediy.com/thread-214582.htm
 
 ## Bypass DSE
 
