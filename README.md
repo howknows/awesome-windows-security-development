@@ -159,6 +159,7 @@
 
 ## ROOTKITS
 
+- https://github.com/HoShiMin/EnjoyTheRing0
 - https://github.com/hfiref0x/ZeroAccess
 - https://github.com/hackedteam/driver-win32
 - https://github.com/hackedteam/driver-win64
