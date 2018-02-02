@@ -210,13 +210,19 @@
 - https://github.com/Cr4sh/PeiBackdoor
 - https://github.com/Cr4sh/fwexpl
 
+## SMC
+
+- https://github.com/marcusbotacin/Self-Modifying-Code
+
 ## Anti Debug
 
+- https://github.com/marcusbotacin/Anti.Analysis
 - https://github.com/LordNoteworthy/al-khaser
 - https://github.com/eschweiler/ProReversing
 
 ## Malware
 
+- https://github.com/marcusbotacin/Malware.Multicore
 - https://github.com/bxlcity/malware
 - https://github.com/grcasanova/SuperVirus
 - https://github.com/hackedteam/core-win32
@@ -225,6 +231,8 @@
 
 ## Malware analysis
 
+- https://github.com/marcusbotacin/Malware.Variants
+- https://github.com/marcusbotacin/Hardware-Assisted-AV
 - https://github.com/gentilkiwi/spectre_meltdown
 - https://github.com/gentilkiwi/wanadecrypt
 - https://github.com/bloomer1016
@@ -457,6 +465,10 @@
 
 - https://github.com/killbug2004/HttpsProxy
 - https://github.com/erickutcher/httpproxy
+
+## JSON
+
+- https://github.com/marcusbotacin/MyJSON
 
 ## awesome
 
