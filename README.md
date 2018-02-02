@@ -390,7 +390,7 @@
 ## Fuzzer
 
 - https://github.com/bee13oy/AV_Kernel_Vulns/tree/master/Zer0Con2017
-- https://github.com/k0keoyo/kDriver-Fuzzer (Paper:https://www.anquanke.com/post/id/97245)
+- https://github.com/k0keoyo/kDriver-Fuzzer (Paper:https://whereisk0shl.top/post/2018-01-30)
 - https://github.com/koutto/ioctlbf
 - https://github.com/Cr4sh/ioctlfuzzer
 - https://github.com/Cr4sh/MsFontsFuzz
