@@ -1,6 +1,6 @@
 # awesome-windows-kernel-security-development
 
-## Windows Kernel Driver with C++ runtime
+## windows kernel driver with c++ runtime
 
 - https://github.com/ExpLife/DriverSTL
 - https://github.com/sysprogs/BazisLib
@@ -14,13 +14,13 @@
 - https://github.com/zer0mem/miniCommon
 - https://github.com/jackqk/mystudy
 
-## DKOM
+## dkom
 
 - https://github.com/nbqofficial/HideDriver
 - https://github.com/landhb/HideProcess
 - https://github.com/tfairane/DKOM
 
-## SSDT HOOK
+## ssdt hook
 
 - https://github.com/papadp/shd
 - https://github.com/bronzeMe/SSDT_Hook_x64
@@ -31,20 +31,20 @@
 - https://github.com/weixu8/RegistryMonitor
 - https://github.com/nmgwddj/Learn-Windows-Drivers
     
-## EAT/IAT/OBJECT/IRP/IDT HOOK
+## eat/iat/object/irp/iat hook
 
 - https://github.com/HollyDi/Ring0Hook
 - https://github.com/mgeeky/prc_xchk
 - https://github.com/tinysec/iathook
 
-## INLINE HOOK
+## inline hook
 
 - https://github.com/MalwareTech/FstHook
 - https://github.com/Menooker/FishHook
 - https://github.com/G-E-N-E-S-I-S/latebros
 - https://bbs.pediy.com/thread-214582.htm
 
-## Inject Technique
+## inject technique
 
 - https://github.com/georgenicolaou/HeavenInjector
 - https://github.com/tinysec/runwithdll
@@ -73,15 +73,15 @@
 - https://github.com/stormshield/Beholder-Win32
 - https://github.com/yifiHeaven/MagicWall
 
-## Memoryload Dll
+## load Dll from memory
 
 - https://github.com/fancycode/MemoryModule
 
-## Memoryload Driver
+## load driver from memory
 
 - https://github.com/Professor-plum/Reflective-Driver-Loader
 
-## HOOK Engine
+## hook engine
 
 - https://github.com/Ilyatk/HookEngine
 - https://github.com/zyantific/zyan-hook-engine
@@ -89,7 +89,7 @@
 - https://github.com/EasyHook/EasyHook
 - https://github.com/RelicOfTesla/Detours
 
-## CallBack
+## callback
 
 - https://github.com/JKornev/hidden
 - https://github.com/binbibi/CallbackEx
@@ -97,7 +97,7 @@
 - https://github.com/nmgwddj/Learn-Windows-Drivers
 - https://github.com/SamLarenN/CallbackDisabler
 
-## Minifilter
+## minifilter
 
 - https://github.com/aleksk/LazyCopy
 - https://github.com/guidoreina/minivers
@@ -108,23 +108,23 @@
 - https://github.com/aleksk/LazyCopy
 - https://github.com/KhaiTB/BKAV.Filter
 
-## LSP
+## lsp
 
 - https://github.com/AnwarMohamed/Packetyzer
 
-## AFD
+## afd
  
 - https://github.com/xiaomagexiao/GameDll 
 - https://github.com/DeDf/afd
 
-## TDI
+## tdi
 
 - https://github.com/michael4338/TDI
 - https://github.com/cullengao/tdi_monitor
 - https://github.com/uniking/TDI-Demo
 - https://github.com/codereba/netmon
 
-## WFP
+## wfp
 
 - https://github.com/basil00/Divert
 - https://github.com/WPO-Foundation/win-shaper
@@ -133,7 +133,7 @@
 - https://github.com/henrypp/simplewall
 - https://docs.microsoft.com/zh-cn/windows-hardware/drivers/network/porting-packet-processing-drivers-and-apps-to-wfp
 
-## NDIS
+## ndis
 
 - https://github.com/lcxl/lcxl-net-loader
 - https://www.ntkernel.com/windows-packet-filter/
@@ -150,7 +150,7 @@
 - https://github.com/Microsoft/Windows-driver-samples/tree/master/network/config/bindview
 - https://github.com/brorica/http_inject (winpcap)
 
-## WSK
+## wsk
 
 - https://github.com/reinhardvz/wsk
 - https://github.com/akayn/kbMon
@@ -158,7 +158,7 @@
 - https://github.com/mestefy/securityplus
 - https://github.com/skycipher/CNGProvider
 
-## ROOTKITS
+## rootkits
 
 - https://github.com/HoShiMin/EnjoyTheRing0
 - https://github.com/hfiref0x/ZeroAccess
@@ -182,7 +182,7 @@
 - https://github.com/MinhasKamal/TrojanCockroach
 - https://github.com/akayn/kbMon
 
-## BOOTKITS
+## bootkits
 
 - https://github.com/DeviceObject/rk2017
 - https://github.com/DeviceObject/ChangeDiskSector
@@ -196,7 +196,7 @@
 - https://github.com/NextSecurity/vector-edk
 - https://github.com/ahixon/booty
 
-## UEFI/SMM
+## uefi/smm
 
 - https://github.com/DeviceObject/Uefi_HelloWorld
 - https://github.com/LongSoft/UEFITool
@@ -210,17 +210,17 @@
 - https://github.com/Cr4sh/PeiBackdoor
 - https://github.com/Cr4sh/fwexpl
 
-## SMC
+## smc
 
 - https://github.com/marcusbotacin/Self-Modifying-Code
 
-## Anti Debug
+## anti debug
 
 - https://github.com/marcusbotacin/Anti.Analysis
 - https://github.com/LordNoteworthy/al-khaser
 - https://github.com/eschweiler/ProReversing
 
-## Malware
+## malware
 
 - https://github.com/marcusbotacin/Malware.Multicore
 - https://github.com/bxlcity/malware
@@ -229,7 +229,7 @@
 - https://github.com/hackedteam/scout-win
 - https://github.com/hackedteam/vector-dropper
 
-## Malware analysis
+## malware analysis
 
 - https://github.com/marcusbotacin/Malware.Variants
 - https://github.com/marcusbotacin/Hardware-Assisted-AV
@@ -239,7 +239,7 @@
 - https://github.com/CHEF-KOCH/malware-research
 - https://github.com/gentilkiwi/wanakiwi
 
-## ArkTools
+## arktools
 
 - https://github.com/marcusbotacin/BranchMonitoringProject
 - https://github.com/AzureGreen/ArkProtect
@@ -262,7 +262,7 @@
 - https://github.com/hackshields/antivirus/
 - https://github.com/AntiRootkit/BDArkit
 
-## Bypass PatchPuard
+## bypass patchguard
 
 - https://github.com/hfiref0x/UPGDSED
 - https://github.com/tandasat/PgResarch
@@ -271,12 +271,12 @@
 - https://github.com/zer0mem/HowToBoostPatchGuard
 - https://bbs.pediy.com/thread-214582.htm
 
-## Bypass DSE
+## bypass dse
 
 - https://github.com/hfiref0x/TDL
 - https://github.com/hfiref0x/DSEFix
 
-## Windows Kernel Exploits
+## windows kernel exploits
 
 - https://github.com/k0keoyo/CVE-2017-0038-EXP-C-JS
 - https://github.com/cbayet/PoolSprayer
@@ -329,7 +329,7 @@
 - https://github.com/tyranid/DeviceGuardBypasses
 - https://github.com/tyranid/ExploitDotNetDCOM
 
-## SandboxEscape
+## sandbox escape
 
 - https://github.com/SilverMoonSecurity/SandboxEvasion
 - https://github.com/exAphex/SandboxEscape
@@ -351,7 +351,7 @@
 - https://github.com/shakenetwork/vmware_escape
 - https://github.com/Cr4sh/prl_guest_to_host
 
-## HIPS
+## hips
 - https://github.com/0xdabbad00/OpenHIPS
 - https://github.com/ExpLife/Norton_AntiVirus_SourceCode
 - https://github.com/majian55555/MJAntiVirusEngine
@@ -359,7 +359,7 @@
 - https://github.com/tandasat/EopMon
 - https://github.com/tandasat/MemoryMon
 
-## VT
+## vt
 
 - https://github.com/ionescu007/SimpleVisor
 - https://github.com/zer0mem/MiniHyperVisorProject
@@ -387,7 +387,7 @@
 - https://github.com/cheat-engine/cheat-engine
 - https://github.com/Kelvinhack/kHypervisor
 
-## Fuzzer
+## fuzzer
 
 - https://github.com/bee13oy/AV_Kernel_Vulns/tree/master/Zer0Con2017
 - https://github.com/k0keoyo/kDriver-Fuzzer (Paper:https://whereisk0shl.top/post/2018-01-30)
@@ -402,12 +402,12 @@
 - https://github.com/marche147/IoctlMon
 - https://github.com/k0keoyo/Some-Kernel-Fuzzing-Paper
 
-## GameHack
+## game hack
 
 - https://github.com/mlghuskie/NoBastian
 - https://github.com/G-E-N-E-S-I-S/BattlegroundsChams
 
-## Symbolic Execution
+## symbolic execution
 
 - https://github.com/illera88/Ponce
 - https://github.com/gaasedelen/lighthouse
@@ -424,49 +424,46 @@
 
 - https://github.com/VincentSe/WatchTrees
 
-## winpcap
-
-- https://github.com/klemenb/fiddly
-
-## RPC
+## rpc
 
 - https://github.com/gentilkiwi/basic_rpc
 
-## HashDump
+## hash dump
 
 - https://github.com/gentilkiwi/mimikatz
 
-##  Auxiliary Lib
+##  auxiliary lib
 
 - https://github.com/David-Reguera-Garcia-Dreg/auxlib
 
-## Ring3 NT API
+## ring3 nt api
 
 - https://github.com/Chuyu-Team/NativeLib
 
-## Winpcap
+## winpcap
 
+- https://github.com/klemenb/fiddly
 - http://blog.csdn.net/Ni9htMar3/article/details/54612394
 - https://www.cnblogs.com/xcj26/articles/6073411.html
 - http://www.freebuf.com/articles/system/103526.html
 - https://github.com/illahaha/zxarps (arpcheat)
 - https://github.com/sincoder/zxarps (arpcheat)
 
-## Shadow
+## shadow
 
 - https://github.com/lcxl/lcxl-shadow
 
-## HTTP
+## http
 
 - https://github.com/OlehKulykov/libnhr
 - https://github.com/erickutcher/httpdownloader
 
-## HTTPS Proxy
+## https proxy
 
 - https://github.com/killbug2004/HttpsProxy
 - https://github.com/erickutcher/httpproxy
 
-## JSON
+## json
 
 - https://github.com/marcusbotacin/MyJSON
 
@@ -480,7 +477,7 @@
 
 - http://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/
 
-## Miscellaneous
+## miscellaneous
 
 - https://github.com/k0keoyo/ntoskrnl-symbol-pdb-and-undocument-structures
 - https://github.com/gentilkiwi/p11proxy
@@ -535,7 +532,7 @@
 
 - https://keenlab.tencent.com/zh
 
-## Blog
+## blogs
 
 - https://whereisk0shl.top
 - https://www.anquanke.com/post/id/97245
