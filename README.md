@@ -390,7 +390,7 @@
 ## Fuzzer
 
 - https://github.com/bee13oy/AV_Kernel_Vulns/tree/master/Zer0Con2017
-- https://github.com/k0keoyo/kDriver-Fuzzer
+- https://github.com/k0keoyo/kDriver-Fuzzer (Paper:https://www.anquanke.com/post/id/97245)
 - https://github.com/koutto/ioctlbf
 - https://github.com/Cr4sh/ioctlfuzzer
 - https://github.com/Cr4sh/MsFontsFuzz
@@ -537,6 +537,7 @@
 
 ## Blog
 
+- https://www.anquanke.com/post/id/97245
 - https://lifeinhex.com
 - https://vallejo.cc/2017/11/18/installation-and-first-contact-with-the-new-windbg/
 - http://www.vxjump.net/
