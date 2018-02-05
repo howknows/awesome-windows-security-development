@@ -429,6 +429,7 @@
 ## IDA Script & Plugin
 
 - https://github.com/igogo-x86/HexRaysPyTools
+- https://github.com/techbliss/Python_editor
 
 ## rpc
 
