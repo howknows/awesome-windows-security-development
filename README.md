@@ -331,6 +331,10 @@
 - https://github.com/tyranid/DeviceGuardBypasses
 - https://github.com/tyranid/ExploitDotNetDCOM
 
+## Office Exploit
+
+- https://github.com/rxwx/CVE-2017-8570
+
 ## sandbox escape
 
 - https://github.com/SilverMoonSecurity/SandboxEvasion
