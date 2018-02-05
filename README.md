@@ -426,6 +426,10 @@
 
 - https://github.com/VincentSe/WatchTrees
 
+## IDA Script & Plugin
+
+- https://github.com/igogo-x86/HexRaysPyTools
+
 ## rpc
 
 - https://github.com/gentilkiwi/basic_rpc
