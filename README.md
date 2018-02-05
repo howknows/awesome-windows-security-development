@@ -435,6 +435,7 @@
 - https://github.com/igogo-x86/HexRaysPyTools
 - https://github.com/techbliss/Python_editor
 - https://github.com/tmr232/Sark
+- http://sark.readthedocs.io/en/latest/debugging.html
 
 ## rpc
 
