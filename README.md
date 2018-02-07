@@ -486,6 +486,10 @@
 - https://github.com/jshaw87/Cheatsheets
 - https://github.com/RPISEC/MBE
 
+## Windows Driver Kit DDI (device driver interface) documentation
+
+- https://docs.microsoft.com/zh-cn/windows-hardware/drivers/ddi/
+
 ## tools
 
 - http://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/
