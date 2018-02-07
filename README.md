@@ -224,6 +224,7 @@
 
 ## malware
 
+- https://github.com/DimChris0/LoRa
 - https://github.com/marcusbotacin/Malware.Multicore
 - https://github.com/bxlcity/malware
 - https://github.com/grcasanova/SuperVirus
