@@ -331,6 +331,7 @@
 - https://github.com/tyranid/ExploitRemotingService
 - https://github.com/tyranid/DeviceGuardBypasses
 - https://github.com/tyranid/ExploitDotNetDCOM
+- https://github.com/hatRiot/token-priv(EOP)
 
 ## Office Exploit
 
