@@ -463,6 +463,10 @@
 - https://github.com/illahaha/zxarps (arpcheat)
 - https://github.com/sincoder/zxarps (arpcheat)
 
+## metasploit
+
+- https://github.com/breenmachine/RottenPotatoNG
+
 ## shadow
 
 - https://github.com/lcxl/lcxl-shadow
