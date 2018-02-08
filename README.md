@@ -456,6 +456,10 @@
 
 - https://github.com/Chuyu-Team/NativeLib
 
+## dll hijack
+
+- https://github.com/strivexjun/AheadLib-x86-x64
+
 ## winpcap
 
 - https://github.com/klemenb/fiddly
