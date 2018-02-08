@@ -219,6 +219,7 @@
 
 ## anti debug
 
+- https://github.com/strivexjun/XAntiDebug
 - https://github.com/marcusbotacin/Anti.Analysis
 - https://github.com/LordNoteworthy/al-khaser
 - https://github.com/eschweiler/ProReversing
