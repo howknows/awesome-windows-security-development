@@ -611,3 +611,8 @@
 - http://www.vxjump.net/
 - https://www.pediy.com/
 - https://navisec.it/
+
+## development documents
+
+- http://devdocs.io/
+- https://zealdocs.org/
