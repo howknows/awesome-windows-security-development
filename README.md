@@ -501,6 +501,12 @@
 
 - http://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/
 
+## NSA security tools
+
+- https://github.com/exploitx3/FUZZBUNCH
+- https://github.com/fuzzbunch/fuzzbunch
+- https://github.com/peterpt/fuzzbunch
+
 ## miscellaneous
 
 - https://github.com/k0keoyo/ntoskrnl-symbol-pdb-and-undocument-structures
