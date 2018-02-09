@@ -334,6 +334,8 @@
 - https://github.com/tyranid/DeviceGuardBypasses
 - https://github.com/tyranid/ExploitDotNetDCOM
 - https://github.com/hatRiot/token-priv(EOP)
+- https://github.com/weizn11/MS17010_AllInOne
+- https://github.com/TeskeVirtualSystem/MS17010Test
 
 ## Office Exploit
 
