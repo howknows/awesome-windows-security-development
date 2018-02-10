@@ -46,6 +46,7 @@
 
 ## inject technique
 
+- https://github.com/deroko/activationcontexthook
 - https://github.com/georgenicolaou/HeavenInjector
 - https://github.com/tinysec/runwithdll
 - https://github.com/NtOpcode/NT-APC-Injector
