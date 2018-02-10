@@ -508,6 +508,10 @@
 - https://docs.microsoft.com/zh-cn/windows-hardware/drivers/ddi/
 - https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/windbg-scripting-preview
 
+## Windbg Preview & jsprovider
+
+- http://doar-e.github.io/blog/2017/12/01/debugger-data-model/
+
 ## tools
 
 - http://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/
