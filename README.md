@@ -77,6 +77,7 @@
 ## load Dll from memory
 
 - https://github.com/fancycode/MemoryModule
+- https://github.com/strivexjun/MemoryModulePP
 
 ## load driver from memory
 
