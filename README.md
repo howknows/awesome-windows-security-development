@@ -476,6 +476,7 @@
 
 ## metasploit
 
+- https://github.com/NytroRST/NetRipper
 - https://github.com/breenmachine/RottenPotatoNG
 
 ## shadow
