@@ -503,6 +503,7 @@
 ## Windows Driver Kit DDI (device driver interface) documentation
 
 - https://docs.microsoft.com/zh-cn/windows-hardware/drivers/ddi/
+- https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/windbg-scripting-preview
 
 ## tools
 
