@@ -348,9 +348,13 @@
 - https://github.com/weizn11/MS17010_AllInOne
 - https://github.com/TeskeVirtualSystem/MS17010Test
 
-## Office Exploit
+## office exploit
 
 - https://github.com/rxwx/CVE-2017-8570
+
+## flash exploit
+
+- https://github.com/brianwrf/CVE-2017-4878-Samples
 
 ## sandbox escape
 
@@ -455,7 +459,7 @@
 
 - https://github.com/VincentSe/WatchTrees
 
-## IDA Script & Plugin
+## ida script & plugin
 
 - https://github.com/igogo-x86/HexRaysPyTools
 - https://github.com/techbliss/Python_editor
@@ -510,7 +514,7 @@
 - https://github.com/killbug2004/HttpsProxy
 - https://github.com/erickutcher/httpproxy
 
-## MITM
+## mitm
 
 - https://github.com/pfussell/pivotal
 
@@ -524,12 +528,12 @@
 - https://github.com/jshaw87/Cheatsheets
 - https://github.com/RPISEC/MBE
 
-## Windows Driver Kit DDI (device driver interface) documentation
+## windows Driver Kit ddi (device driver interface) documentation
 
 - https://docs.microsoft.com/zh-cn/windows-hardware/drivers/ddi/
 - https://docs.microsoft.com/en-us/windows-hardware/drivers/debugger/windbg-scripting-preview
 
-## Windbg Preview & jsprovider
+## windbg preview & jsprovider
 
 - http://doar-e.github.io/blog/2017/12/01/debugger-data-model/
 
@@ -537,7 +541,7 @@
 
 - http://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/
 
-## NSA security tools
+## nsa security tools
 
 - https://github.com/exploitx3/FUZZBUNCH
 - https://github.com/fuzzbunch/fuzzbunch
