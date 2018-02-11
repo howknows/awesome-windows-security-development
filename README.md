@@ -445,7 +445,10 @@
 
 ## x64dbg plugin
 
-- - https://github.com/mrexodia/TitanHide
+- https://github.com/mrexodia/TitanHide
+- https://github.com/x64dbg/InterObfu
+- https://github.com/x64dbg/ScyllaHide
+- https://github.com/Nukem9/SwissArmyKnife
 
 ## windbg plugin
 
