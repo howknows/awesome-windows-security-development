@@ -292,9 +292,8 @@
 - https://github.com/hfiref0x/TDL
 - https://github.com/hfiref0x/DSEFix
 
-## windows kernel exploits
-
-(HackSysExtremeVulnerableDriver)
+## HackSysExtremeVulnerableDriver
+    
 - https://github.com/hacksysteam/HackSysExtremeVulnerableDriver
 - https://github.com/k0keoyo/HEVD-Double-Free-PoC
 - https://github.com/k0keoyo/HEVD-Arbitrary-Overwrite-Exploit-Win10-rs3
@@ -309,6 +308,8 @@
 - https://github.com/Cn33liz/HSEVD-ArbitraryOverwriteLowIL
 - https://github.com/Cn33liz/HSEVD-ArbitraryOverwrite
 - https://github.com/akayn/demos
+
+## windows kernel exploits
 
 - https://github.com/k0keoyo/CVE-2017-0038-EXP-C-JS
 - https://github.com/cbayet/PoolSprayer
