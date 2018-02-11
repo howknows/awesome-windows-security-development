@@ -22,6 +22,7 @@
 
 ## ssdt hook
 
+- https://github.com/mrexodia/TitanHide (x64dbg Plugin)-(DragonQuestHero Suggest)
 - https://github.com/papadp/shd
 - https://github.com/bronzeMe/SSDT_Hook_x64
 - https://github.com/s18leoare/Hackshield-Driver-Bypass
@@ -441,6 +442,10 @@
 - https://github.com/ExpLife/binarydiffer
 - https://github.com/ExpLife/patchdiff2_ida6
 - https://github.com/ExpLife/patchdiff2
+
+## x64dbg plugin
+
+- - https://github.com/mrexodia/TitanHide
 
 ## windbg plugin
 
