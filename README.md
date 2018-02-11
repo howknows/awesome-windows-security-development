@@ -294,6 +294,7 @@
 
 ## HackSysExtremeVulnerableDriver
 
+- https://www.fuzzysecurity.com/tutorials.html
 - https://rootkits.xyz/blog/
 - https://github.com/hacksysteam/HackSysExtremeVulnerableDriver
 - https://github.com/k0keoyo/HEVD-Double-Free-PoC
