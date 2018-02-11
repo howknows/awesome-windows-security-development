@@ -46,6 +46,14 @@
 
 ## inject technique
 
+- https://github.com/papadp/reflective-injection-detection (InjectFromMemory)
+- https://github.com/psmitty7373/eif (InjectFromMemory)
+- https://github.com/rokups/ReflectiveLdr (InjectFromMemory)
+- https://github.com/BenjaminSoelberg/ReflectivePELoader (InjectFromMemory) 
+- https://github.com/NtRaiseHardError/Phage (InjectFromMemory)
+- https://github.com/dismantl/ImprovedReflectiveDLLInjection (InjectFromMemory)
+- https://github.com/CylanceVulnResearch/ReflectiveDLLRefresher (InjectFromMemory)
+- https://github.com/amishsecurity/paythepony (InjectFromMemory)
 - https://github.com/deroko/activationcontexthook
 - https://github.com/georgenicolaou/HeavenInjector
 - https://github.com/tinysec/runwithdll
@@ -492,6 +500,10 @@
 
 - https://github.com/killbug2004/HttpsProxy
 - https://github.com/erickutcher/httpproxy
+
+## MITM
+
+- https://github.com/pfussell/pivotal
 
 ## json
 
