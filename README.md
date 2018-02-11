@@ -438,6 +438,10 @@
 
 - https://github.com/codingtest/EMET
 
+## hotpatch
+
+- https://github.com/codingtest/windows_hotpatch
+
 ## game hack
 
 - https://github.com/mlghuskie/NoBastian
