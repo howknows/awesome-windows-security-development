@@ -294,14 +294,28 @@
 
 ## windows kernel exploits
 
+(HackSysExtremeVulnerableDriver)
+- https://github.com/hacksysteam/HackSysExtremeVulnerableDriver
+- https://github.com/k0keoyo/HEVD-Double-Free-PoC
+- https://github.com/k0keoyo/HEVD-Arbitrary-Overwrite-Exploit-Win10-rs3
+- https://github.com/tekwizz123/HEVD-Exploit-Solutions
+- https://github.com/k0keoyo/try_exploit
+- https://github.com/Cn33liz/HSEVD-VariousExploits
+- https://github.com/Cn33liz/HSEVD-StackOverflow
+- https://github.com/Cn33liz/HSEVD-StackOverflowX64
+- https://github.com/Cn33liz/HSEVD-StackCookieBypass
+- https://github.com/Cn33liz/HSEVD-ArbitraryOverwriteGDI
+- https://github.com/Cn33liz/HSEVD-StackOverflowGDI
+- https://github.com/Cn33liz/HSEVD-ArbitraryOverwriteLowIL
+- https://github.com/Cn33liz/HSEVD-ArbitraryOverwrite
+- https://github.com/akayn/demos
+
 - https://github.com/k0keoyo/CVE-2017-0038-EXP-C-JS
 - https://github.com/cbayet/PoolSprayer
-- https://github.com/k0keoyo/HEVD-Double-Free-PoC
 - https://github.com/k0keoyo/Vir.IT-explorer-Anti-Virus-Null-Pointer-Reference-PoC
 - https://github.com/k0keoyo/Driver-Loaded-PoC
 - https://github.com/k0keoyo/try_exploit
 - https://github.com/k0keoyo/CVE-2015-2546-Exploit
-- https://github.com/k0keoyo/HEVD-Arbitrary-Overwrite-Exploit-Win10-rs3
 - https://github.com/k0keoyo/Dark_Composition_case_study_Integer_Overflow
 - https://github.com/tinysec/vulnerability
 - https://github.com/akayn/demos
@@ -319,7 +333,6 @@
 - https://github.com/Rootkitsmm/WinIo-Vidix
 - https://github.com/andrewkabai/vulnwindrv
 - https://github.com/mwrlabs/CVE-2016-7255
-- https://github.com/hacksysteam/HackSysExtremeVulnerableDriver
 - https://github.com/MarkHC/HandleMaster
 - https://github.com/SamLarenN/CapcomDKOM
 - https://github.com/zerosum0x0/puppetstrings
