@@ -378,6 +378,11 @@
 - https://github.com/shakenetwork/vmware_escape
 - https://github.com/Cr4sh/prl_guest_to_host
 
+## cve
+
+- https://github.com/LiuCan01/cve-list-pro
+- https://github.com/CVEProject/cvelist
+
 ## hips
 - https://github.com/0xdabbad00/OpenHIPS
 - https://github.com/ExpLife/Norton_AntiVirus_SourceCode
