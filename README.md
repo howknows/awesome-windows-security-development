@@ -449,6 +449,7 @@
 - https://github.com/x64dbg/InterObfu
 - https://github.com/x64dbg/ScyllaHide
 - https://github.com/Nukem9/SwissArmyKnife
+- https://github.com/x64dbg/x64dbg/wiki/Plugins
 
 ## windbg plugin
 
