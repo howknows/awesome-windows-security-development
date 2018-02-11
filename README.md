@@ -470,6 +470,7 @@
 - https://github.com/techbliss/Python_editor
 - https://github.com/tmr232/Sark
 - http://sark.readthedocs.io/en/latest/debugging.html
+- https://bbs.pediy.com/thread-224627.htm (wing debugging idapython script)
 
 ## rpc
 
