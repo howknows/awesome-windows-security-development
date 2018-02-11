@@ -293,7 +293,8 @@
 - https://github.com/hfiref0x/DSEFix
 
 ## HackSysExtremeVulnerableDriver
-    
+
+- https://rootkits.xyz/blog/
 - https://github.com/hacksysteam/HackSysExtremeVulnerableDriver
 - https://github.com/k0keoyo/HEVD-Double-Free-PoC
 - https://github.com/k0keoyo/HEVD-Arbitrary-Overwrite-Exploit-Win10-rs3
