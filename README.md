@@ -434,6 +434,10 @@
 - https://github.com/marche147/IoctlMon
 - https://github.com/k0keoyo/Some-Kernel-Fuzzing-Paper
 
+## emet
+
+- https://github.com/codingtest/EMET
+
 ## game hack
 
 - https://github.com/mlghuskie/NoBastian
