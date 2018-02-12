@@ -261,6 +261,7 @@
 
 ## malware analysis
 
+- https://github.com/kevthehermit/RATDecoders
 - https://github.com/marcusbotacin/Malware.Variants
 - https://github.com/marcusbotacin/Hardware-Assisted-AV
 - https://github.com/gentilkiwi/spectre_meltdown
