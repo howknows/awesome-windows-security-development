@@ -88,6 +88,14 @@
 - https://github.com/fancycode/MemoryModule
 - https://github.com/strivexjun/MemoryModulePP
 
+## dll to shellcode
+
+- https://github.com/w1nds/dll2shellcode
+
+## hide & delete dll
+
+- https://github.com/wyyqyl/HideModule
+
 ## load driver from memory
 
 - https://github.com/Professor-plum/Reflective-Driver-Loader
@@ -462,6 +470,17 @@
 
 - https://github.com/mlghuskie/NoBastian
 - https://github.com/G-E-N-E-S-I-S/BattlegroundsChams
+- https://github.com/luciouskami/XignCode3Bypass
+- https://github.com/luciouskami/CS-GO-Simple-Hack
+- https://github.com/luciouskami/load-self-mix
+- https://github.com/Karaulov/WarcraftIII_DLL_126-127
+- https://github.com/TonyZesto/PubgPrivXcode85
+- https://github.com/luciouskami/gameguard-for-war3
+- https://github.com/PopcornEgg/LOLChangeSkin
+- https://github.com/ValveSoftware/ToGL
+- https://github.com/Karaulov/War3-SizeLimit-Bypass
+- https://github.com/F7eak/Xenon
+- https://github.com/syj2010syj/All-Star-Battle-2
 
 ## symbolic execution
 
