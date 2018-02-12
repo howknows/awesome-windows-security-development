@@ -40,6 +40,7 @@
 
 ## inline hook
 
+- https://github.com/VideoCardGuy/HideProcessInTaskmgr
 - https://github.com/MalwareTech/FstHook
 - https://github.com/Menooker/FishHook
 - https://github.com/G-E-N-E-S-I-S/latebros
@@ -47,6 +48,7 @@
 
 ## inject technique
 
+- https://github.com/VideoCardGuy/X64Injector
 - https://github.com/papadp/reflective-injection-detection (InjectFromMemory)
 - https://github.com/psmitty7373/eif (InjectFromMemory)
 - https://github.com/rokups/ReflectiveLdr (InjectFromMemory)
@@ -87,6 +89,10 @@
 
 - https://github.com/fancycode/MemoryModule
 - https://github.com/strivexjun/MemoryModulePP
+
+## pe loader
+
+- https://github.com/VideoCardGuy/PELoader
 
 ## dll to shellcode
 
@@ -468,6 +474,22 @@
 
 ## game hack
 
+- https://github.com/VideoCardGuy/ExpTool_GUI
+- https://github.com/VideoCardGuy/Zhihu_SimpleLog
+- https://github.com/VideoCardGuy/NewYuGiOh_CheatDLL_x64
+- https://github.com/VideoCardGuy/Tetris
+- https://github.com/VideoCardGuy/YuGiOh
+- https://github.com/VideoCardGuy/SnakeAI
+- https://github.com/VideoCardGuy/gitAsktao
+- https://github.com/VideoCardGuy/War3Cheat
+- https://github.com/VideoCardGuy/AStar_Study
+- https://github.com/VideoCardGuy/BnsChina_SetSpeed
+- https://github.com/VideoCardGuy/LOLProjects
+- https://github.com/VideoCardGuy/NewYuGiOh_CheatDLL_x64
+- https://github.com/VideoCardGuy/PictureMatchGame
+- https://github.com/VideoCardGuy/AutoLoginByBnsChina
+- https://github.com/VideoCardGuy/MemoryWatchTool
+- https://github.com/VideoCardGuy/LOL_China
 - https://github.com/mlghuskie/NoBastian
 - https://github.com/G-E-N-E-S-I-S/BattlegroundsChams
 - https://github.com/luciouskami/XignCode3Bypass
