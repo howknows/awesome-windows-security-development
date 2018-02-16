@@ -163,6 +163,9 @@
 
 ## ndis
 
+- https://github.com/yuanmaomao/NDIS_Firewall
+- https://github.com/SoftEtherVPN/Win10Pcap
+- https://github.com/IsoGrid/NdisProtocol
 - https://github.com/lcxl/lcxl-net-loader
 - https://www.ntkernel.com/windows-packet-filter/
 - https://github.com/michael4338/NDIS
