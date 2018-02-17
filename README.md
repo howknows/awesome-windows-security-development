@@ -331,6 +331,7 @@
 
 ## windows kernel exploits
 
+- https://github.com/swwwolf/obderef
 - https://github.com/k0keoyo/CVE-2017-0038-EXP-C-JS
 - https://github.com/cbayet/PoolSprayer
 - https://github.com/k0keoyo/Vir.IT-explorer-Anti-Virus-Null-Pointer-Reference-PoC
