@@ -679,6 +679,7 @@
 
 ## blogs
 
+- http://www.trueai.cn/
 - https://whereisk0shl.top
 - https://www.anquanke.com/post/id/97245
 - https://lifeinhex.com
