@@ -602,6 +602,7 @@
 
 ## awesome
 
+- https://github.com/justjavac/free-programming-books-zh_CN
 - https://github.com/rmusser01/Infosec_Reference/
 - https://github.com/jshaw87/Cheatsheets
 - https://github.com/RPISEC/MBE
