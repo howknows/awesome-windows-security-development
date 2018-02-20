@@ -626,6 +626,13 @@
 - https://github.com/fuzzbunch/fuzzbunch
 - https://github.com/peterpt/fuzzbunch
 
+## apt
+
+- https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections
+- https://github.com/kbandla/APTnotes
+- https://attack.mitre.org/wiki/Groups
+- https://github.com/fdiskyou/threat-INTel
+
 ## miscellaneous
 
 - https://github.com/k0keoyo/ntoskrnl-symbol-pdb-and-undocument-structures
