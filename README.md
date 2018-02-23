@@ -34,6 +34,7 @@
     
 ## eat/iat/object/irp/iat hook
 
+- https://github.com/xiaomagexiao/GameDll
 - https://github.com/HollyDi/Ring0Hook
 - https://github.com/mgeeky/prc_xchk
 - https://github.com/tinysec/iathook
