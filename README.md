@@ -621,6 +621,10 @@
 
 - http://doar-e.github.io/blog/2017/12/01/debugger-data-model/
 
+## vm
+
+- https://github.com/tboox/vm86
+
 ## tools
 
 - http://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/
