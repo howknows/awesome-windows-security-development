@@ -332,6 +332,7 @@
 
 ## windows kernel exploits
 
+- https://github.com/JeremyFetiveau/Exploits
 - https://github.com/hfiref0x/Stryker
 - https://github.com/swwwolf/obderef
 - https://github.com/k0keoyo/CVE-2017-0038-EXP-C-JS
