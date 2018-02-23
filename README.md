@@ -22,6 +22,7 @@
 
 ## ssdt hook
 
+- https://github.com/int0/ProcessIsolator
 - https://github.com/mrexodia/TitanHide (x64dbg Plugin)-(DragonQuestHero Suggest)
 - https://github.com/papadp/shd
 - https://github.com/bronzeMe/SSDT_Hook_x64
