@@ -261,6 +261,7 @@
 
 ## malware
 
+- https://github.com/Mr-Un1k0d3r/ThunderShell (powershell)
 - https://github.com/DimChris0/LoRa
 - https://github.com/marcusbotacin/Malware.Multicore
 - https://github.com/bxlcity/malware
