@@ -261,6 +261,7 @@
 
 ## malware
 
+- https://github.com/mwsrc/XtremeRAT
 - https://github.com/mwsrc/Schwarze-Sonne-RAT (delphi)
 - https://github.com/Mr-Un1k0d3r/ThunderShell (powershell)
 - https://github.com/DimChris0/LoRa
