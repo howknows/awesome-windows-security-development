@@ -492,6 +492,7 @@
 
 ## game hack
 
+- https://github.com/yoie/NGPlug-in
 - https://github.com/DevelopKits/proj
 - https://github.com/VideoCardGuy/ExpTool_GUI
 - https://github.com/VideoCardGuy/Zhihu_SimpleLog
