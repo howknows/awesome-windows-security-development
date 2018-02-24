@@ -136,6 +136,10 @@
 - https://github.com/aleksk/LazyCopy
 - https://github.com/KhaiTB/BKAV.Filter
 
+## virtual disk
+
+- https://github.com/yogendersolanki91/Kernel-Driver-Example
+
 ## lsp
 
 - https://github.com/AnwarMohamed/Packetyzer
