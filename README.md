@@ -783,3 +783,4 @@
 ## book code
 
 - https://github.com/elephantos/elephant
+- https://github.com/yifengyou/Android-software-security-and-reverse-analysis
