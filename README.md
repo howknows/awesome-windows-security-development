@@ -140,6 +140,12 @@
 
 - https://github.com/yogendersolanki91/Kernel-Driver-Example
 
+## virtual file system
+
+- https://github.com/ExpLife/CodeUMVFS
+- https://github.com/yogendersolanki91/ProcessFileSystem
+- https://github.com/BenjaminKim/dokanx
+
 ## lsp
 
 - https://github.com/AnwarMohamed/Packetyzer
