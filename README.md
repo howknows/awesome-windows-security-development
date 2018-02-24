@@ -650,6 +650,25 @@
 - https://attack.mitre.org/wiki/Groups
 - https://github.com/fdiskyou/threat-INTel
 
+## 3rd party library
+
+- https://github.com/GiovanniDicanio/WinReg
+- https://github.com/GiovanniDicanio/StopwatchWin32
+- https://github.com/Wintellect/ProcMonDebugOutput
+- https://github.com/GiovanniDicanio/ReadStringsFromRegistry
+- https://github.com/GiovanniDicanio/Utf8ConvAtlStl
+- https://github.com/GiovanniDicanio/StringPool
+- https://github.com/GiovanniDicanio/MapWithCaseInsensitiveStringKey
+- https://github.com/GiovanniDicanio/SafeArraySamples
+- https://github.com/GiovanniDicanio/TestSSO
+- https://github.com/GiovanniDicanio/DoubleNulTerminatedString
+- https://github.com/GiovanniDicanio/LoadingCedictBenchmarkCpp
+- https://github.com/GiovanniDicanio/TestStringSorting
+- https://github.com/GiovanniDicanio/UnicodeConversions
+- https://github.com/GiovanniDicanio/TestStringsAtlVsStl
+- https://github.com/GiovanniDicanio/UnicodeConversionAtl
+- https://github.com/GiovanniDicanio/StlVectorVsListPerformance
+
 ## miscellaneous
 
 - https://github.com/gaozan198912/myproject
