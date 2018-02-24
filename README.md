@@ -492,6 +492,7 @@
 
 ## game hack
 
+- https://github.com/DreamHacks/dreamdota
 - https://github.com/yoie/NGPlug-in
 - https://github.com/DevelopKits/proj
 - https://github.com/VideoCardGuy/ExpTool_GUI
