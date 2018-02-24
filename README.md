@@ -784,3 +784,4 @@
 
 - https://github.com/elephantos/elephant
 - https://github.com/yifengyou/Android-software-security-and-reverse-analysis
+- https://github.com/yifengyou/Code-virtualization-and-automation-analysis
