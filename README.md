@@ -333,6 +333,7 @@
 
 ## HackSysExtremeVulnerableDriver
 
+- https://github.com/mgeeky/HEVD_Kernel_Exploit
 - https://www.fuzzysecurity.com/tutorials.html
 - https://rootkits.xyz/blog/
 - https://github.com/hacksysteam/HackSysExtremeVulnerableDriver
