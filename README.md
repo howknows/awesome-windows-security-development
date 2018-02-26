@@ -797,6 +797,14 @@
 
 - http://dockone.io/search/q-RG9ja09uZeaKgOacr+WIhuS6qw==#articles
 
+## leaked source code 
+
+- https://github.com/pustladi/Windows-2000
+- https://github.com/killbug2004/NT_4.0_SourceCode
+- https://github.com/pustladi/TrueCrypt-7.2
+- https://github.com/pustladi/MS-DOS-v.1.1
+- https://github.com/pustladi/MS-DOS-v.2.0
+
 ## book code
 
 - https://github.com/yifengyou/32to64
