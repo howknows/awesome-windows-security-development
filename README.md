@@ -805,6 +805,18 @@
 - https://github.com/pustladi/MS-DOS-v.1.1
 - https://github.com/pustladi/MS-DOS-v.2.0
 
+## crypto api
+
+- https://github.com/maldevel/AES256
+- https://github.com/wbenny/mini-tor
+- https://github.com/wyrover/CryptoAPI-examples
+- https://github.com/fmuecke/CryptoApi
+- https://github.com/ViartX/CacheCrypto
+- https://github.com/Deerenaros/CryptoAPIWrapper
+- https://github.com/maldevel/SHA256
+- https://github.com/13g10n/crypto
+
+
 ## book code
 
 - https://github.com/yifengyou/32to64
