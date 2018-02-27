@@ -546,6 +546,10 @@
 
 - https://github.com/SCUBSRGroup/OLLVM_Deobfuscation
 
+## taint analyse
+
+- https://github.com/SCUBSRGroup/Taint-Analyse
+
 ## bin diff
 
 - https://www.zynamics.com/bindiff.html
