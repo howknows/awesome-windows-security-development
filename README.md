@@ -542,6 +542,10 @@
 - https://github.com/illera88/Ponce
 - https://github.com/gaasedelen/lighthouse
 
+## deobfuscation
+
+- https://github.com/SCUBSRGroup/OLLVM_Deobfuscation
+
 ## bin diff
 
 - https://www.zynamics.com/bindiff.html
@@ -816,7 +820,6 @@
 - https://github.com/Deerenaros/CryptoAPIWrapper
 - https://github.com/maldevel/SHA256
 - https://github.com/13g10n/crypto
-
 
 ## book code
 
