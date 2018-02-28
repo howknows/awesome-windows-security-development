@@ -580,6 +580,7 @@
 
 ## ida script & plugin
 
+- https://github.com/mwrlabs/win_driver_plugin
 - https://github.com/igogo-x86/HexRaysPyTools
 - https://github.com/techbliss/Python_editor
 - https://github.com/tmr232/Sark
