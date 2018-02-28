@@ -93,6 +93,10 @@
 - https://github.com/fancycode/MemoryModule
 - https://github.com/strivexjun/MemoryModulePP
 
+## process hollowing
+
+- https://github.com/m0n0ph1/Process-Hollowing
+
 ## pe loader
 
 - https://github.com/VideoCardGuy/PELoader
@@ -222,7 +226,6 @@
 - https://github.com/MalwareTech/FakeMBR
 - https://github.com/Cr4sh/PTBypass-PoC
 - https://github.com/psaneme/Kung-Fu-Malware
-- https://github.com/m0n0ph1/Process-Hollowing
 - https://github.com/hasherezade/persistence_demos
 - https://github.com/MinhasKamal/TrojanCockroach
 - https://github.com/akayn/kbMon
