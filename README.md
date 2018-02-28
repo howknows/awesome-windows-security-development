@@ -95,7 +95,12 @@
 
 ## process hollowing
 
+- https://github.com/Spajed/processrefund
+- https://github.com/KernelMode/Process_Doppelganging
+- https://github.com/hasherezade/process_doppelganging
 - https://github.com/m0n0ph1/Process-Hollowing
+- https://github.com/KernelMode/RunPE-ProcessHollowing
+- https://github.com/KernelMode/RunPE_Detecter
 
 ## pe loader
 
