@@ -834,6 +834,11 @@
 - https://github.com/maldevel/SHA256
 - https://github.com/13g10n/crypto
 
+## ascii banner
+
+- http://www.network-science.de/ascii/
+- http://www.degraeve.com/img2txt.php
+
 ## book code
 
 - https://github.com/yifengyou/32to64
