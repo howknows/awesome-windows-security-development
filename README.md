@@ -156,6 +156,10 @@
 - https://github.com/yogendersolanki91/ProcessFileSystem
 - https://github.com/BenjaminKim/dokanx
 
+## alpc
+
+- https://github.com/avalon1610/ALPC
+
 ## lsp
 
 - https://github.com/AnwarMohamed/Packetyzer
