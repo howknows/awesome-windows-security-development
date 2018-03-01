@@ -761,6 +761,7 @@
 
 ## blogs
 
+- http://www.diting0x.com/
 - http://lotabout.me/archives/ (write a c interpreter)
 - http://2997ms.com/2016/10/09/2016/2016-9%E6%9C%88-%E5%90%AD%E5%93%A7%E5%92%94%E5%93%A7/
 - http://www.trueai.cn/
