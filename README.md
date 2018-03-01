@@ -147,6 +147,7 @@
 
 ## virtual disk
 
+- https://github.com/zhaozhongshu/winvblock_vs
 - https://github.com/yogendersolanki91/Kernel-Driver-Example
 
 ## virtual file system
