@@ -156,6 +156,10 @@
 - https://github.com/yogendersolanki91/ProcessFileSystem
 - https://github.com/BenjaminKim/dokanx
 
+## lpc
+
+- https://github.com/avalon1610/LPC
+
 ## alpc
 
 - https://github.com/avalon1610/ALPC
