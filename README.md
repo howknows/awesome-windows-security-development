@@ -18,8 +18,10 @@
 ## dkom
 
 - https://github.com/nbqofficial/HideDriver
+- https://github.com/ZhuHuiBeiShaDiao/NewHideDriverEx
 - https://github.com/landhb/HideProcess
 - https://github.com/tfairane/DKOM
+- https://github.com/Sqdwr/HideDriver
 
 ## ssdt hook
 
