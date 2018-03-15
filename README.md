@@ -51,6 +51,7 @@
 - https://github.com/HollyDi/Ring0Hook
 - https://github.com/mgeeky/prc_xchk
 - https://github.com/tinysec/iathook
+- https://github.com/stevemk14ebr/PolyHook
 
 ## inline hook
 
