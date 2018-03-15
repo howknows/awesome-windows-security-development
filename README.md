@@ -5,7 +5,7 @@
 </h1>
 
 
-# awesome-windows-kernel-security-development
+# awesome-windows-security-development
 
 ## Forked from ExpLife/awesome-windows-kernel-security-development.but...He deleted
 
