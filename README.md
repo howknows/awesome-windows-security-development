@@ -202,6 +202,11 @@
 - https://github.com/henrypp/simplewall
 - https://docs.microsoft.com/zh-cn/windows-hardware/drivers/network/porting-packet-processing-drivers-and-apps-to-wfp
 - https://github.com/thecybermind/ipredir
+- https://github.com/RmzVoid/RMZSol
+- https://github.com/BrunoMCBraga/Kernel-Whisperer
+- https://github.com/KBancerz/kkvpn_driver
+- https://github.com/JaredWright/WFPStarterKit
+- https://github.com/WPO-Foundation/win-shaper
 
 ## ndis
 
@@ -254,6 +259,7 @@
 - https://github.com/hasherezade/persistence_demos
 - https://github.com/MinhasKamal/TrojanCockroach
 - https://github.com/akayn/kbMon
+- https://github.com/hm200958/kmdf--analyse
 
 ## mbr
 
