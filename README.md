@@ -198,7 +198,6 @@
 - https://github.com/basil00/Divert
 - https://github.com/WPO-Foundation/win-shaper
 - https://github.com/raymon-tian/WFPFirewall
-- https://github.com/killbug2004/HashFilter
 - https://github.com/henrypp/simplewall
 - https://docs.microsoft.com/zh-cn/windows-hardware/drivers/network/porting-packet-processing-drivers-and-apps-to-wfp
 - https://github.com/thecybermind/ipredir
@@ -206,7 +205,6 @@
 - https://github.com/BrunoMCBraga/Kernel-Whisperer
 - https://github.com/KBancerz/kkvpn_driver
 - https://github.com/JaredWright/WFPStarterKit
-- https://github.com/WPO-Foundation/win-shaper
 
 ## ndis
 
