@@ -1,11 +1,13 @@
 <h1 align="center">
-	<img width="400" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome">
+	<img width="400" src="logo.svg" alt="Awesome">
 	<br>
 	<br>
 </h1>
 
 
 # awesome-windows-kernel-security-development
+
+## Forked from ExpLife/awesome-windows-kernel-security-development.but...He deleted
 
 ## windows kernel driver with c++ runtime
 
